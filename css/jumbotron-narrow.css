@@ -111,7 +111,7 @@ h1{
 
 .photobanner{
 float:left;
-width:500px;
+max-width:100%;
 height:300px;
 overflow:auto;
 white-space:nowrap;
