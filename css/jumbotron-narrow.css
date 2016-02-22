@@ -124,6 +124,7 @@ h1{
   position: relative;
   display: block;
   padding: 10px 15px;
+  color: #d9534f;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
