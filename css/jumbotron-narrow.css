@@ -17,8 +17,7 @@ h1{
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background: #000 url("../images/shanghaiCover.jpg") center center;
-  /* background-color: #252121; */
+  background-color: #252121; 
 }
 
 .h1{
